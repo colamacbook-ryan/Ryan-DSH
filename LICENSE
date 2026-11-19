@@ -1,21 +1,22 @@
-MIT License
+PROPRIETARY & SOURCE-AVAILABLE LICENSE (NON-COMMERCIAL / PLATFORM-FORK ONLY)
 
-Copyright (c) 2026 colamacbook-ryan
+Copyright (c) 2026 Ryan / Genesis Corp OS (genesis.corp.os@gmail.com).
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and associated documentation files (the "Software") are made available strictly subject to the following terms and conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. GITHUB PLATFORM FORK PERMISSION
+Subject to GitHub's Terms of Service, you are permitted solely to fork this repository on the GitHub platform for personal viewing, educational purposes, and contributing back to this repository via GitHub Pull Requests.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. STRICT PROHIBITION ON CLONING AND REPRODUCTION
+Except as inherently required by GitHub's internal platform infrastructure to display and fork repositories online:
+- You are strictly prohibited from cloning (via git or any tool), downloading (via ZIP, tarball, or script), archiving, mirroring, or reproducing this repository or any portion thereof onto any local storage, offline environment, server, or external system without prior explicit written permission from the copyright holder.
+
+3. STRICT PROHIBITION ON COMMERCIAL USE
+Commercial use of this Software, in whole or in part, is strictly prohibited. You may not use, integrate, distribute, sell, license, rent, monetize, or exploit this Software for any direct or indirect commercial advantage, monetary compensation, or business enterprise.
+
+4. NO DERIVATIVE REDISTRIBUTION
+You may not distribute, sub-license, publish, or share derivative works of this Software outside of GitHub forks that remain bound by this identical License.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
